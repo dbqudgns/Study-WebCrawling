@@ -1,7 +1,9 @@
 # 웹 크롤링 
 
 - 강의 : YouTube-스타트 코딩
-- 학습 기간 : 2025/05/22 ~ 
+- 학습 기간 : 2025/05/22 ~
+
+--- 
 
 ##  학습 내용 
 
@@ -64,3 +66,10 @@
 
 - 데이터를 받아오는 라이브러리 : requests
 - 데이터를 뽑아내는 라이브러리 : BeautifulSoup4
+
+---
+
+## 환경 설정 
+- 언어 : Python 3.13.3
+- IDE : Visual Studio Code
+- 편집 도구 : Jupter Notebook
